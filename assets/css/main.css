@@ -82,6 +82,7 @@ h4 {
 }
 
 .textContainer {
+  padding-top: 12vh;
   position: relative;
   text-align: left;
   font-size: 8vw;
@@ -95,7 +96,6 @@ h4 {
 
 .jstext {
   width: 100%;
-  /* padding-top: 12vh; */
   padding-right: 50px;
 }
 .jstext:after {
