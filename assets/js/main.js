@@ -1,6 +1,6 @@
 
 var sections = [
-	" a passionate software engineer based in London",
+	" a passionate software engineer / tech lead based in London",
 	
 	" a hard worker and a voracious learner",
 	
@@ -19,6 +19,8 @@ var sections = [
 	" automating everything. Hail to DevOps!",
 	
 	" still convinced he could be part of change",
+	
+	" proud of his team",
 	
 	" finally updating his CV",
 	
@@ -55,7 +57,6 @@ var sections = [
 	" looking forward to his next travel adventure"
 	
 ];
-
 
 var options = {
 	strings: sections,
